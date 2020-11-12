@@ -1,0 +1,10 @@
+WIDTH =1200
+HEIGHT = 800
+
+# player pos
+PLAYER_POSITION = (WIDTH//2, HEIGHT//2)
+
+g = 200
+
+BLACK = (0, 0, 0)
+GREEN = (0, 255, 0)
